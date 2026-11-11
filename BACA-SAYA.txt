@@ -1,0 +1,6 @@
+UNDANGAN RENGGA & RAHMA
+
+Foto latar seluruh halaman memakai foto/background.jpeg.
+Foto galeri memakai foto/foto-utama.jpeg dan foto/galeri-1.jpeg.
+Taruh foto tambahan di folder foto dengan nama galeri-2.jpeg sampai galeri-4.jpeg.
+Letakkan lagu MP3 di musik/lagu.mp3. Tamu menekan tombol PUTAR MUSIK untuk mulai. Buka index.html di browser untuk melihat perubahan terbaru; gunakan Ctrl+F5 untuk memuat ulang tanpa cache.
